@@ -1,7 +1,9 @@
 👋 Hi, I'm Aashith
 
 💻 Beginner Python Developer
+
 🔐 Interested in Cybersecurity and Ethical Hacking
+
 ⚽ Building football and sports applications
 
 ---
@@ -54,7 +56,7 @@ https://github.com/aashithtk/football-tournament-manager
 
 💼 LinkedIn: https://www.linkedin.com/in/aashith-tk-b99ba03b5
 
-📷 Instagram: https://www.instagram.com/_aashithh_ 
+📷 Instagram: https://www.instagram.com/_aashithh_tk
 
 ---
 
