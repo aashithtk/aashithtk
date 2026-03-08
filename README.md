@@ -52,7 +52,7 @@ https://github.com/aashithtk/football-tournament-manager
 
 📧 Email: aashithtk724@gmail.com
 
-💻 GitHub: https://github.com/aashithtk
+💻 GitHub: https://github.com/coder-aashith
 
 💼 LinkedIn: https://www.linkedin.com/in/aashith-tk-b99ba03b5
 
